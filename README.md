@@ -1,5 +1,5 @@
-# SearchAI
-Implement AI search algorithms from scratch
+# AI Search Algorithms
+Implementing AI search algorithms from scratch
 ## Algorithms:
 <br>1 - A*
 <br>2- Best First Search (BFS)
